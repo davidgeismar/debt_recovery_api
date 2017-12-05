@@ -1,3 +1,4 @@
 Numpy
+Scipy
 Flask
 uwsgi
