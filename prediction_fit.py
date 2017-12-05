@@ -48,5 +48,5 @@ def regression(versements_percent):
 
 # if __name__ == "__main__":
 #     main(sys.argv[1:])
-
-app.run(port=5000, debug=True)
+if __name__ == '__main__':
+    app.run(port=5000, debug=True)
